@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @adilansary
-- 👀 I’m interested in ML
-- 🌱 I’m currently learning everything.
+- 👀 I’m interested in Software Testing.
 - 📫 How to reach me- adilansary777@gmail.com
 
 <!---
