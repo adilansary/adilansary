@@ -1,4 +1,4 @@
-[![MasterHead](https://t3.ftcdn.net/jpg/02/96/61/94/360_F_296619471_iEGweTy9VsokHtbCJsVmyez0d2rocmmA.jpg)]
+![MasterHead](https://t3.ftcdn.net/jpg/02/96/61/94/360_F_296619471_iEGweTy9VsokHtbCJsVmyez0d2rocmmA.jpg)
 <h1 align="center">Hi 👋, I'm Adil Ansary</h1>
 <h3 align="center">A passionate Software Quality & Automation Engineer.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
