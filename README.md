@@ -1,7 +1,7 @@
 [![MasterHead](https://t3.ftcdn.net/jpg/02/96/61/94/360_F_296619471_iEGweTy9VsokHtbCJsVmyez0d2rocmmA.jpg)]
 <h1 align="center">Hi 👋, I'm Adil Ansary</h1>
 <h3 align="center">A passionate Software Quality & Automation Engineer.</h3>
-<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC/fullscreen">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
 <p align="left"> <a href="https://twitter.com/aadilansary" target="blank"><img src="https://img.shields.io/twitter/follow/aadilansary?logo=twitter&style=for-the-badge" alt="aadilansary" /></a> </p>
 
