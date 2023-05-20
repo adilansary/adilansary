@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/aadilansary" target="blank"><img src="https://img.shields.io/twitter/follow/aadilansary?logo=twitter&style=for-the-badge" alt="aadilansary" /></a> </p>
 
-- 🌱 I’m currently learning **Automation testing frameworks, Cypress**
+- 🌱 I’m currently learning **Automation testing**
 
 - 👨‍💻 All of my projects are available at [https://github.com/adilansary?tab=repositories](https://github.com/adilansary?tab=repositories)
 
